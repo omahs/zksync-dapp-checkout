@@ -2,13 +2,13 @@
 
 # zkSync Checkout — trustable permissionless DeFi payment gateway 
 
-zkSync Checkout helps anyone permission-less adopt checkout backed by zkSync, receive payments automatically and benefit from all the advantage of zkSync Rollup: speed of the transaction, times lower cost of a single transaction, simplicity of withdrawal fund to the onchain-wallet.
+zkSync Checkout helps anyone permission-less adopt checkout backed by zkSync, receive payments automatically and benefit from all the advantages of zkSync Rollup: speed of the transaction, times lower cost of a single transaction, simplicity of withdrawal fund to the onchain-wallet.
 
 * **[SDK documentation](https://zksync.io/api/sdk/checkout/)** | [**Changelog**](CHANGELOG.md)
 
 ## Deployment
 
-zkSync uses firebase hosting for all it's dApps.
+zkSync uses firebase hosting for all its dApps.
 Resource targets for the zkCheckout are:
 
 ### Available Hosts
